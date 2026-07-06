@@ -1,0 +1,25 @@
+{
+  "name": "ثبت زمان",
+  "short_name": "ثبت زمان",
+  "description": "اپلیکیشن ثبت زمان",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F8F4EC",
+  "theme_color": "#E86F75",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
